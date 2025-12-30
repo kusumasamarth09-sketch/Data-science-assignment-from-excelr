@@ -1,7 +1,0 @@
-streamlit>=1.18
-scikit-learn
-pandas
-numpy
-joblib
-statsmodels
-pyngrok
